@@ -1,0 +1,1 @@
+<div id="copyright text-right"><strong>Copyright &copy; 2020 <a href="https://kingtech.com.ph">Kingtech.com.ph</a>.</strong> All rights reserved.</div>
